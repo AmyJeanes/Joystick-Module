@@ -25,13 +25,13 @@ Merge the [`addons`][ref-addons] and [`lua`][ref-luabin] directories from this r
   4. Execute the [`./install.sh`][ref-linstall] installation script.
   5. Delete the [`cloned repository`][ref-repo] by answering `Y/y` to the [`terminal`][ref-terminal] prompt.
      
-[ref-repo]: https://github.com/MattJeanes/Joystick-Module
-[ref-winstall]: https://github.com/MattJeanes/Joystick-Module/blob/master/install.bat
-[ref-linstall]: https://github.com/MattJeanes/Joystick-Module/blob/master/install.sh
+[ref-repo]: https://github.com/AmyJeanes/Joystick-Module
+[ref-winstall]: https://github.com/AmyJeanes/Joystick-Module/blob/main/install.bat
+[ref-linstall]: https://github.com/AmyJeanes/Joystick-Module/blob/main/install.sh
 [ref-thread]: https://web.archive.org/web/20160716031819/http://www.facepunch.com/showthread.php?t=403669
 [ref-author]: https://web.archive.org/web/20160613102022/http://facepunch.com/member.php?u=2853
 [ref-joymod]: https://components101.com/modules/joystick-module
-[ref-addons]: https://github.com/MattJeanes/Joystick-Module/tree/master/addons
-[ref-luabin]: https://github.com/MattJeanes/Joystick-Module/tree/master/lua
+[ref-addons]: https://github.com/AmyJeanes/Joystick-Module/tree/main/addons
+[ref-luabin]: https://github.com/AmyJeanes/Joystick-Module/tree/main/lua
 [ref-terminal]: https://linuxcommand.org/
 
